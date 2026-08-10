@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Yuri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer;C+%7C+C%2B%2B+%7C+C%23+%7C+Python;HTML+%7C+CSS+%7C+PHP+%7C+JS+%7C+TypeScript;ReactNative+%7C+Node+%7C+SQL+%7C+Mongo+%7C+Postgre+Git" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer;C+%7C+C%2B%2B+%7C+C%23+%7C+Python;HTML+%7C+CSS+%7C+PHP+%7C+JS+%7C+TypeScript;ReactNative+%7C+Node+%7C+SQL+%7C+Mongo+%7C+Postgre+%7C+Git" alt="Typing SVG" />
 </p>
 
 ---
