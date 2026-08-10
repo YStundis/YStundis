@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Yuri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer;C+%7C+C%2B%2B+%7C+C%23+%7C+Python;HTML+%7C+CSS+%7C+PHP+%7C+JS+%7C+TypeScript;ReactNative+%7C+Node+%7C+SQL+%7C+Mongo+%7C+Git" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer;C+%7C+C%2B%2B+%7C+C%23+%7C+Python;HTML+%7C+CSS+%7C+PHP+%7C+JS+%7C+TypeScript;ReactNative+%7C+Node+%7C+SQL+%7C+Mongo+%7C+Postgre+Git" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,6 +38,7 @@ Estou sempre em busca de novos desafios, aprendizado contínuo e maneiras de apl
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
