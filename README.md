@@ -1,9 +1,7 @@
 <h1 align="center">Olá, eu sou o Yuri</h1>
 
-<h3 align="center">Developer</h3>
-
 <p align="center">
-  C • C++ • C# • Python • HTML • CSS • PHP • JS • TypeScript • React Native • Node • SQL • Mongo • Postgres • Git
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=false&width=900&lines=Developer+%7C+C+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+HTML+%7C+CSS+%7C+PHP+%7C+JS+%7C+TypeScript+%7C+ReactNative+%7C+Node+%7C+SQL+%7C+Mongo+%7C+Postgres+%7C+Git" alt="Typing SVG" />
 </p>
 
 ---
