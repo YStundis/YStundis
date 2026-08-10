@@ -1,21 +1,51 @@
 <h1 align="center">Olá, eu sou o Yuri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Sempre+aprendendo+coisas+novas;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Developer;C+%7C+C%2B%2B+%7C+C%23+%7C+Python;HTML+%7C+CSS+%7C+PHP+%7C+JS+%7C+TypeScript;ReactNative+%7C+Node+%7C+SQL+%7C+Mongo+%7C+Git" alt="Typing SVG" />
 </p>
+
+---
+
+### Sobre mim
+
+Formado em Sistemas de Informação, com paixão por tecnologia e dedicação ao desenvolvimento de soluções inovadoras.
+
+Graduado em Sistemas de Informação pela UNIFEB, desenvolvi sólidas habilidades em desenvolvimento de software e resolução de problemas.
+
+Possuo formação técnica em Informática pelo IFSP, onde iniciei minha trajetória no universo da tecnologia, adquirindo uma base ampla e prática.
+
+Tive a oportunidade de atuar como estagiário na BW7 Soluções Web, onde aprofundei meus conhecimentos em desenvolvimento web e participei de projetos práticos.
+
+Atualmente, faço parte da equipe da Vulneri, contribuindo para projetos desafiadores que exigem inovação e excelência técnica.
+
+Estou sempre em busca de novos desafios, aprendizado contínuo e maneiras de aplicar tecnologia para gerar valor e resultados.
 
 ---
 
 ### Tecnologias e ferramentas
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+---
+
+### Principais competências
+
+Python • C# • JavaScript • Node.js • PHP
 
 ---
 
