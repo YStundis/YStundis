@@ -63,10 +63,6 @@ Python • C# • JavaScript • Node.js • PHP
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YStundis&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=YStundis&theme=transparent&hide_border=true" alt="Streak de commits" />
 </p>
 
