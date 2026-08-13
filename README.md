@@ -42,6 +42,11 @@ Estou sempre em busca de novos desafios, aprendizado contínuo e maneiras de apl
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -56,12 +61,18 @@ Python • C# • JavaScript • Node.js • PHP
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YStundis&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YStundis&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YStundis" alt="Streak de commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YStundis&background=00000000&border=00000000" alt="Streak de commits" />
 </p>
+
+<div align="center">
+
+![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=YStundis&theme=github-dark&hide_border=true&bg_color=00000000)
+
+</div>
 
 ---
 
