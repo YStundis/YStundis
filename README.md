@@ -63,15 +63,12 @@ Python • C# • JavaScript • Node.js • PHP
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YStundis&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YStundis&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=YStundis&theme=transparent&hide_border=true" alt="Streak de commits" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YStundis&theme=transparent&hide_border=true" alt="Streak de commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YStundis&theme=github_dark" alt="Linguagem mais usada" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YStundis&theme=github_dark" alt="Linguagem mais usada" width="45%" />
 </p>
 
 <div align="center">
