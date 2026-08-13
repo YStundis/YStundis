@@ -65,7 +65,7 @@ Python • C# • JavaScript • Node.js • PHP
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YStundis&background=00000000&border=00000000" alt="Streak de commits" />
+  <img src="https://streak-stats.demolab.com?user=YStundis&theme=transparent&hide_border=true" alt="Streak de commits" />
 </p>
 
 <div align="center">
