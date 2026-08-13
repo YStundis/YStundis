@@ -67,7 +67,7 @@ Python • C# • JavaScript • Node.js • PHP
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YStundis&theme=github_dark" alt="Linguagem mais usada" />
+  <img src="https://streak-stats.demolab.com?user=YStundis&theme=transparent&hide_border=true" alt="Streak de commits" />
 </p>
 
 <div align="center">
