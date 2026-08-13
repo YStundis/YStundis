@@ -1,4 +1,6 @@
-<h1 align="center">Olá, eu sou o Yuri</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=200&section=header&text=Olá,%20eu%20sou%20o%20Yuri&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=false&width=650&lines=Developer+%7C+C+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+HTML+%7C+CSS+%7C+PHP" alt="Typing SVG" />
@@ -66,6 +68,10 @@ Python • C# • JavaScript • Node.js • PHP
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YStundis&theme=transparent&hide_border=true" alt="Streak de commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YStundis&theme=github_dark" alt="Linguagem mais usada" />
 </p>
 
 <div align="center">
